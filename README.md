@@ -15,11 +15,9 @@ If you want to take a look at the project, I recommend:
 ## Description 📑
 Ark Agency is a fully responsive Agency website. Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-## Autor ✒️
-**César Casanova**
-
-* [micorreo@midominio.com](casanovac@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/cesar-casanova/))
+## Autor ✒️ **César Casanova**
+* [casanovac@gmail.com](casanovac@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/cesar-casanova/)
 * [Porfolio web](https://casanovacesar.com/)
 
 ## Installation 
