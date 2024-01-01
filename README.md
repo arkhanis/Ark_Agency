@@ -4,7 +4,7 @@
 If you want to take a look at the project, I recommend:
 ![Captura del proyecto](![desktop](https://github.com/arkhanis/LandingPage-agency/assets/68834617/29c809df-20c1-4137-9ae8-588e8655c290))
 
-## Live Demo [Link](https://arkhanis.github.io/LandingPage-agency/)
+## Live Demo - [Link](https://arkhanis.github.io/LandingPage-agency/)
 
 ## Tecnologies 🛠
 <!-- Icons taken from: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
