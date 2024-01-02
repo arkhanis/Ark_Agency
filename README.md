@@ -3,7 +3,7 @@
 
 ## Project preview
 If you want to take a look at the project, I recommend:
-![Captura del proyecto](![desktop]([https://github.com/arkhanis/LandingPage-agency/assets/68834617/29c809df-20c1-4137-9ae8-588e8655c290](https://github.com/arkhanis/LandingPage-agency/blob/master/assets/images/screenshot.png)))
+![Captura del proyecto](!([https://github.com/arkhanis/LandingPage-agency/assets/68834617/29c809df-20c1-4137-9ae8-588e8655c290](https://github.com/arkhanis/LandingPage-agency/blob/master/assets/images/screenshot.png)))
 
 
 ## Live Demo - [Link](https://arkhanis.github.io/LandingPage-agency/)
