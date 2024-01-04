@@ -16,7 +16,7 @@ This project is a website for a multipurpose agency.
 
 
 ## Project preview 🖼️
-![Captura del proyecto](https://github.com/arkhanis/LandingPage-agency/blob/master/assets/images/screenshot.png)
+![Captura del proyecto](https://github.com/arkhanis/HTML_Landing-agency/blob/master/assets/readme-img/screenshot.png)
 
 
 ## Installation 💻
