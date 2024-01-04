@@ -18,9 +18,9 @@ This project is a website for a multipurpose agency.
 ## 👀 Project preview
 ![Captura del proyecto](https://github.com/arkhanis/LandingPage-agency/blob/master/assets/images/screenshot.png)
 
-
-## 💻 Installation 
-This project does not require installation. Simply open the folder or double click on the .html
+> [!IMPORTANT]
+> ## 💻 Installation 
+> This project does not require installation. Simply open the folder or double click on the .html
 
 
 ## 🌎 You can find me at:
