@@ -1,7 +1,10 @@
 # Project: Agency Website
-### Live Demo --> [Link](https://arkhanis.github.io/LandingPage-agency/)
-### 🗒️ Description: 
-Ark Agency is a fully responsive Agency website. Responsive for all devices, build using HTML, CSS, and JavaScript.
+
+## About the project:
+### [Live Demo](https://arkhanis.github.io/LandingPage-agency/)
+### Description: 
+This project `#RRGGBB`is a website for a multipurpose agency. Responsive for all devices, build using HTML, CSS, and JavaScript.
+### Features:
 
 
 ## 🛠 Tecnologies 
