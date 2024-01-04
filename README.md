@@ -2,8 +2,8 @@
 
 ## About the project:
 ### [Live Demo](https://arkhanis.github.io/LandingPage-agency/)
-### Description: 
-This project `#RRGGBB`is a website for a multipurpose agency. Responsive for all devices, build using HTML, CSS, and JavaScript.
+### `#fffDescription`: 
+This project is a website for a multipurpose agency. Responsive for all devices, build using HTML, CSS, and JavaScript.
 ### Features:
 
 
