@@ -19,14 +19,14 @@
 Ark Agency is a fully responsive Agency website. Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 
+## 💻 Installation 
+This project does not require installation. Simply open the folder or double click on the .html
+
+
 ## 🌎 You can find me at:
 * [casanovac@gmail.com](casanovac@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/cesar-casanova/)
 * [Porfolio web](https://casanovacesar.com/)
-
-
-## 💻 Installation 
-This project does not require installation. Simply open the folder or double click on the .html
 
 
 ## 💼 License
