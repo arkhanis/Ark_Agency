@@ -1,7 +1,7 @@
 # Project: Agency Website
 
-## About the project:
-### [Live Demo](https://arkhanis.github.io/LandingPage-agency/)
+## 🌟 About the project:
+### [Live Demo 🖼️](https://arkhanis.github.io/LandingPage-agency/)
 ### `Description:` 
 This project is a website for a multipurpose agency.
 ### `Features:`
