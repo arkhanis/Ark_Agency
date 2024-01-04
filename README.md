@@ -3,9 +3,10 @@
 ## About the project:
 ### [Live Demo](https://arkhanis.github.io/LandingPage-agency/)
 ### `Description:` 
-This project is a website for a multipurpose agency. Responsive for all devices, build using HTML, CSS, and JavaScript.
+This project is a website for a multipurpose agency.
 ### `Features:`
-
+- Responsive for all devices
+- Build using HTML, CSS, and JavaScript.
 
 ## 🛠 Tecnologies 
 <!-- Icons taken from: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
