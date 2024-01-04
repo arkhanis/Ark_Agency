@@ -1,6 +1,9 @@
 # Ark Agency
 
 
+## 🕵 Live Demo - [Link](https://arkhanis.github.io/LandingPage-agency/)
+
+
 ## 🛠 Tecnologies 
 <!-- Icons taken from: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
@@ -10,9 +13,6 @@
 
 ## 👀 Project preview
 ![Captura del proyecto](https://github.com/arkhanis/LandingPage-agency/blob/master/assets/images/screenshot.png)
-
-
-## 🕵 Live Demo - [Link](https://arkhanis.github.io/LandingPage-agency/)
 
 
 ## 🗒️ Description 
