@@ -1,7 +1,7 @@
 # Ark Agency
 
 
-### 🕵 Live Demo - [Link](https://arkhanis.github.io/LandingPage-agency/)
+### Live Demo - [Link](https://arkhanis.github.io/LandingPage-agency/)
 
 
 ## 🛠 Tecnologies 
